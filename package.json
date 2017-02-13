@@ -1,0 +1,30 @@
+{
+  "name": "milight-control",
+  "version": "0.1.0",
+  "description": "Test du capteur de présence",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Guillaume Lamanda",
+  "license": "ISC",
+  "dependencies": {
+    "milight": "^1.0.0",
+    "pigpio": "^0.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/guillaumeLamanda/milight-control.git"
+  },
+  "keywords": [
+    "milight",
+    "control",
+    "sensors",
+    "node"
+  ],
+  "bugs": {
+    "url": "https://github.com/guillaumeLamanda/milight-control/issues"
+  },
+  "homepage": "https://github.com/guillaumeLamanda/milight-control#readme"
+}
